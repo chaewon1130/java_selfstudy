@@ -9,6 +9,9 @@ public class AnimalMain {
 		animal1.sound();
 		animal2.sound();
 		animal3.sound();
+		Dog dog = (Dog)animal1;
+		Cat cat = new Cat();
+		Animal animal = cat;
 		System.out.println(animal2.legCount);
 		System.out.println(animal3 instanceof Cat);
 		System.out.println(animal3 instanceof Animal);
