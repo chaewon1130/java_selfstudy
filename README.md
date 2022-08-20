@@ -18,3 +18,7 @@
 - 8월 17일 CLEAR
 ### CH22. 제네릭-2
 - 8월 18일 CLEAR
+
+<hr>
+
+# <자바의 신> STUDY LOG
