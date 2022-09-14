@@ -24,3 +24,5 @@
 - 9월 1일 CLEAR
 ### CH25. ENUM
 - 9월 7일 CLEAR
+### CH26. INNER CLASS
+- 9월 14일 ING
