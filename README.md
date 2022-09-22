@@ -24,5 +24,7 @@
 - 9월 1일 CLEAR
 ### CH25. ENUM
 - 9월 7일 CLEAR
-### CH26. INNER CLASS
-- 9월 14일 ING
+### CH26. 네스티드 클래스 & 람다
+- 9월 22일 CLEAR
+### CH27. 람다 표현식
+- 9월 22일 ING
