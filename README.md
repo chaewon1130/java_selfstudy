@@ -28,5 +28,5 @@
 - 9월 22일 CLEAR
 ### CH27. 람다 표현식
 - 9월 24일 CLEAR
-### CH28. 메소드 , Optional
+### CH28. 메소드 참조, Optional
 - 9월 24일 ING
